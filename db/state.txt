@@ -1,0 +1,4 @@
+/home/toddg/proj/energy-dashboard/data/data-oasis-atl-baa-tie/sql/20190918_20190919_ATL_BAA_TIE_N_20190922_11_07_32_v3.sql
+/home/toddg/proj/energy-dashboard/data/data-oasis-atl-baa-tie/sql/20190917_20190918_ATL_BAA_TIE_N_20190922_11_07_27_v3.sql
+/home/toddg/proj/energy-dashboard/data/data-oasis-atl-baa-tie/sql/20190919_20190920_ATL_BAA_TIE_N_20190922_11_07_38_v3.sql
+/home/toddg/proj/energy-dashboard/data/data-oasis-atl-baa-tie/sql/20190920_20190921_ATL_BAA_TIE_N_20190922_11_07_43_v3.sql
